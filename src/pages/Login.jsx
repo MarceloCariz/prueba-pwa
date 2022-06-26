@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom'
 const Login = () => {
   return (
     <>
-      <h1 className="text-sky-600 font-black text-6xl capitalize">
+      <h1 className="text-sky-600 font-black text-6xl capitalize bg-red-300">
         Inicia sesion y administra tus
         <span className="text-slate-700">proyectos</span>
       </h1>
